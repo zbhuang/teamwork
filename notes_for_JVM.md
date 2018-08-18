@@ -321,7 +321,7 @@ shared部分是不同gc所共享的代码,也是Serial GC所依赖的部分.
 
 [1]: https://javapapers.com/java/how-java-garbage-collection-works/
 [2]: http://home.ustc.edu.cn/~jzw0222/01_%E6%A6%82%E8%A7%88.png
-[3]: https://raw.githubusercontent.com/leo2589/USTC/master/tmp/pic/02_universe.png
+[3]: https://github.com/USTC-Compiler-H-Team-10/teamwork/blob/master/pics/HotSpot/02_universe.png
 [4]: https://raw.githubusercontent.com/leo2589/USTC/master/tmp/pic/03_initialize_heap.png
 [5]: https://raw.githubusercontent.com/leo2589/USTC/master/tmp/pic/04_create_heap.png
 [6]: https://raw.githubusercontent.com/leo2589/USTC/master/tmp/pic/06_create_heap_with_policy.png
